@@ -1,3 +1,10 @@
+# -*- encoding: utf-8 -*-
+import sys
+import os
+path = os.path.dirname(__file__)
+path = "/".join(path.split("\\")[:-1])
+sys.path.append(path)
+
 import torch
 import numpy as np
 from utils.DataLoader import *

@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 from forward import WindSpeedRegressor
 import torch
 import hiddenlayer as h

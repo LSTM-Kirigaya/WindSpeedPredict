@@ -1,0 +1,9 @@
+*.csv
+*.json
+*.pyc
+doc/老师给的论文/
+doc/自查文献/
+idea/
+data/
+figure/structure/
+*.png

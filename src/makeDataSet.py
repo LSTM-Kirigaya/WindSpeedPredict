@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 from utils.WavPkg import *
 import numpy as np
 import json

@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 from forward import WindSpeedRegressor
 from utils.DataLoader import *
 from utils.WavPkg import *
